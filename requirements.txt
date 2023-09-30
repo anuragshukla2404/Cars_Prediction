@@ -1,0 +1,7 @@
+flask
+numpy
+scikit-learn
+seaborn 
+matplotlib
+pandas
+bz2file
